@@ -1,0 +1,63 @@
+[submodule "lib/vorbis"]
+	path = lib/vorbis
+	url = https://github.com/openfl/libvorbis
+[submodule "lib/sdl"]
+	path = lib/sdl
+	url = https://github.com/openfl/libsdl
+[submodule "lib/openal"]
+	path = lib/openal
+	url = https://github.com/openfl/libopenal
+[submodule "lib/curl"]
+	path = lib/curl
+	url = https://github.com/openfl/libcurl
+[submodule "lib/ogg"]
+	path = lib/ogg
+	url = https://github.com/openfl/libogg
+[submodule "lib/zlib"]
+	path = lib/zlib
+	url = https://github.com/openfl/libzlib
+[submodule "lib/neko"]
+	path = lib/neko
+	url = https://github.com/openfl/libneko
+[submodule "lib/png"]
+	path = lib/png
+	url = https://github.com/openfl/libpng
+[submodule "lib/jpeg"]
+	path = lib/jpeg
+	url = https://github.com/openfl/libjpeg
+[submodule "lib/freetype"]
+	path = lib/freetype
+	url = https://github.com/openfl/libfreetype
+[submodule "lib/harfbuzz"]
+	path = lib/harfbuzz
+	url = https://github.com/openfl/libharfbuzz
+[submodule "lib/cairo"]
+	path = lib/cairo
+	url = https://github.com/openfl/libcairo
+[submodule "lib/pixman"]
+	path = lib/pixman
+	url = https://github.com/openfl/libpixman
+[submodule "lib/lzma"]
+	path = lib/lzma
+	url = https://github.com/openfl/liblzma
+[submodule "lib/tinyfiledialogs"]
+	path = lib/tinyfiledialogs
+	url = https://github.com/openfl/libtinyfiledialogs
+[submodule "lib/efsw"]
+	path = lib/efsw
+	url = https://github.com/openfl/libefsw
+[submodule "lib/vpx"]
+	path = lib/vpx
+	url = https://github.com/openfl/libvpx
+[submodule "lib/webm"]
+	path = lib/webm
+	url = https://github.com/openfl/libwebm
+[submodule "lib/mbedtls"]
+	path = lib/mbedtls
+	url = https://github.com/openfl/libmbedtls
+[submodule "lib/mojoal"]
+	path = lib/mojoal
+	url = https://github.com/openfl/libmojoal
+[submodule "lib/hashlink"]
+	path = lib/hashlink
+	url = https://github.com/HaxeFoundation/hashlink
